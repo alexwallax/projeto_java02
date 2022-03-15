@@ -28,6 +28,8 @@ public class Console {
 		System.out.print("Digite o sua idade: ");
 		int idade = entrada.nextInt();
 		
+		//entrada.nextDouble();
+		
 		//System.out.println("\nSeu nome é " + nome + " " + sobrenome + " " + idade);
 		System.out.printf("%s %s tem %d anos.%n", nome, sobrenome, idade);
 		
