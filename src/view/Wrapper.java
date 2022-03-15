@@ -2,7 +2,7 @@ package view;
 
 //import java.util.Scanner;
 
-public class Wrappers {
+public class Wrapper {
 	
 	public static void main(String[] args) {
 		
