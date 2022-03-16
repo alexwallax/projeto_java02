@@ -8,8 +8,6 @@ public class Wrappers {
 		
 		//Scanner entrada = new Scanner(System.in);
 		
-		// versões dos tipos primitivos orientado a objetos
-		
 		Byte b = 100; //byte
 		Short s = 1000; //double
 		
