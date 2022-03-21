@@ -17,7 +17,10 @@ public class Console {
 		System.out.printf("\nSalário: %.1f%n", 1234.5678);
 		System.out.printf("Nome: %s%n", "João Pedro");
 		
+		
 		Scanner entrada = new Scanner(System.in); // entrada do sistema
+		
+		
 		
 		System.out.print("Digite o seu nome: ");
 		String nome = entrada.nextLine();
